@@ -1,12 +1,3 @@
---https://pastebinp.com/raw/EFRype0R
--- Developed by Team STK
--- Created : 4/10/2022, 12:21 AM
---[[
-    Developers = {
-        ["Owner"] + ["Scripter"] + ["Designer"] = "Luke" or Discord : "Luke Marcus#4347"
-    }
-]]
-
 do
     local Console = game:GetService("CoreGui"):FindFirstChild("STX_Console")
     if Console then
